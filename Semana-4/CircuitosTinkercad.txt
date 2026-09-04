@@ -1,0 +1,10 @@
+Circuitos
+
+Circuito LED Intermitente:
+
+https://www.tinkercad.com/things/jsErJZn2XQV/editel?sharecode=8gViRE_sgRKC-hvwbMa0f8ZR7dVuZR9HA78EWuoM3ts
+
+
+Semáforo Inteligente:
+
+https://www.tinkercad.com/things/dnCsWMJlTQn/editel?returnTo=%2Fdashboard&sharecode=gTXjMaNBNsKzcA358Dmyk31yggtB_BHnZJGiIY1xSRY

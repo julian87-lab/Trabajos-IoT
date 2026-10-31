@@ -1,0 +1,7 @@
+# Credenciales reales: nunca se suben al repositorio
+config.h
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.bak

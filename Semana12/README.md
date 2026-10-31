@@ -30,7 +30,7 @@ El ESP32 se conecta al broker `io.adafruit.com` con el usuario de la cuenta y su
 - Comandos por Monitor Serial para ajustar umbrales y probar fallos (`?` muestra la ayuda).
 - Credenciales fuera del código (`config.h`, no se sube a GitHub).
 
-> **Buzzer:** en esta entrega el buzzer es **simulado**: al recibir la orden, el Monitor Serial muestra la acción. Si se conecta un buzzer físico, se cambia `HAY_BUZZER` a `true`.
+
 
 ## 3. Hardware
 
@@ -42,7 +42,7 @@ El ESP32 se conecta al broker `io.adafruit.com` con el usuario de la cuenta y su
 | LED amarillo | GPIO 26 | Con resistencia de 220 Ω; humedad baja |
 | LED verde | GPIO 27 | Con resistencia de 220 Ω; estado normal |
 | LED blanco | GPIO 33 | Con resistencia de 220 Ω; oscuridad |
-| Buzzer (opcional) | GPIO 32 | Simulado por defecto |
+| Buzzer  | GPIO 32 | Simulado por defecto |
 
 ![Montaje](docs/img/foto_montaje_1.jpg)
 
@@ -200,7 +200,6 @@ La red WiFi debe ser de **2,4 GHz**: el ESP32 no se conecta a redes de 5 GHz.
 
 ## 12. Limitaciones
 
-- El buzzer físico no está conectado: su acción es simulada.
 - Las lecturas no se guardan en el ESP32 mientras no hay red.
 - El indicador de luminosidad del dashboard usa un solo umbral; el LED blanco del montaje usa dos (histéresis).
 

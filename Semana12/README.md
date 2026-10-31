@@ -4,7 +4,7 @@ Actividad Práctica Semanal S12 de **Internet de las Cosas (IoT) – TSI519**, U
 
 Un ESP32 mide la **temperatura**, la **humedad** y la **luminosidad** de un aula, las publica en **Adafruit IO** por MQTT y permite **controlar a distancia** un LED rojo y un buzzer desde un dashboard web/móvil.
 
-> **Video de demostración:** _(agregar aquí el enlace del video, máximo 3 minutos)_
+> **Video de demostración:** https://drive.google.com/file/d/1ZvaUf-pAtAWEzQ4Vs9LiGaplmmzOmA6K/view?usp=drivesdk
 
 ---
 

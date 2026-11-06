@@ -248,7 +248,7 @@ Solución aplicada: se comprobó que la aplicación IFTTT del celular estuviera 
 | Applet de IFTTT configurado y activo | Correcto: estado Connected | Applet |
 | Disparador de IFTTT (feed < 100) | Se ejecutó (5 de noviembre, 20:49) | Actividad de IFTTT |
 | Acción de notificación, primer intento | Falló por falta de sesión en la aplicación móvil | Actividad de IFTTT |
-| Notificación push recibida | COMPLETAR | Captura del celular |
+| Notificación push recibida | Correcto | Captura del celular |
 
 
 ## 8. Problemas encontrados y soluciones

@@ -96,7 +96,7 @@ El primer intento mostró que el disparador de Adafruit se ejecutó, pero la acc
 
 Tras iniciar sesión de nuevo en la aplicación, la nueva ejecución debe registrarse así:
 
-![Actividad exitosa](evidencias/ifttt_actividad_exitosa.png)
+![Actividad exitosa](evidencias/ifttt_actividad_exitosa1.png)
 
 > **PENDIENTE DE COMPLETAR:** reemplazar `evidencias/ifttt_actividad_exitosa.png` por la captura de la ejecución exitosa.
 

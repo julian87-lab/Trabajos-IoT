@@ -80,15 +80,21 @@ Verificar iluminacion.
 
 ### Applet de IFTTT
 
+
 ![Applet de IFTTT](evidencias/applet_ifttt.png)
+
+
 
 ### Notificación push recibida en el celular
 
+
+
 ![Notificación push](evidencias/notificacion_pushh.png)
 
-> **PENDIENTE DE COMPLETAR:** reemplazar `evidencias/notificacion_push.png` por la captura del celular con la notificación recibida.
+
 
 ### Registro de actividad de IFTTT
+
 
 El primer intento mostró que el disparador de Adafruit se ejecutó, pero la acción de notificación falló por falta de una sesión válida en la aplicación móvil:
 
@@ -98,9 +104,9 @@ Tras iniciar sesión de nuevo en la aplicación, la nueva ejecución debe regist
 
 ![Actividad exitosa](evidencias/ifttt_actividad_exitosa1.png)
 
-> **PENDIENTE DE COMPLETAR:** reemplazar `evidencias/ifttt_actividad_exitosa.png` por la captura de la ejecución exitosa.
 
 ### Gráfico histórico (Line Chart)
+
 
 ![Gráfico histórico](evidencias/grafico_historico.png)
 
@@ -108,7 +114,10 @@ Tras iniciar sesión de nuevo en la aplicación, la nueva ejecución debe regist
 
 ### Dashboard de Adafruit IO
 
+
 ![Dashboard](evidencias/dashboard_adafruit.png)
+
+
 
 ### Feed con datos y Monitor Serial
 
@@ -118,6 +127,8 @@ Tras iniciar sesión de nuevo en la aplicación, la nueva ejecución debe regist
 ![Monitor Serial 1](evidencias/monitor_serial_1.png)
 ![Monitor Serial 2](evidencias/monitor_serial_2.png)
 ![Monitor Serial 3](evidencias/monitor_serial_3.png)
+
+
 
 ### Configuración de IFTTT
 

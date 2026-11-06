@@ -173,7 +173,6 @@ Se creó un dashboard en Adafruit IO y se añadió un Line Chart asociado al fee
 
 ¿La luminosidad se mantuvo estable o presentó picos? Con la luz artificial constante de la habitación, la lectura se mantuvo estable en un rango alto, entre 1323 y 1458 ADC. Los cambios importantes ocurrieron solo cuando se cubrió el sensor: la curva descendió bruscamente hasta valores de 23 a 30 ADC y volvió a subir al descubrirlo; esos descensos son los únicos picos observados.
 
-> **COMPLETAR:** Completar con lo que muestra la figura del dato más bajo: valor mínimo ______ ADC; hora ______.
 
 ¿En qué momento del día se detectó el valor más bajo? La prueba se hizo en la noche del 5 de noviembre de 2026, con luz artificial. El valor más bajo no corresponde a un momento natural del día, sino al instante en que se tapó el sensor; por eso el histórico de esta práctica muestra el efecto de la acción y no una tendencia diaria de la luz.
 
@@ -231,25 +230,12 @@ Solución aplicada: se comprobó que la aplicación IFTTT del celular estuviera 
 
 ### Nueva ejecución
 
-![Registro de actividad de IFTTT con la ejecución exitosa (PENDIENTE: reemplazar la captura).](evidencias/ifttt_actividad_exitosa.png)
+![Registro de actividad de IFTTT con la ejecución exitosa (PENDIENTE: reemplazar la captura).](evidencias/ifttt_actividad_exitosa1.png)
 
-> **PENDIENTE DE COMPLETAR:** Insertar aquí la captura del registro de actividad de IFTTT con la ejecución exitosa del Applet (archivo evidencias/ifttt_actividad_exitosa.png).
 
-![Notificación push recibida en el celular (PENDIENTE: reemplazar la captura).](evidencias/notificacion_push.png)
 
-> **PENDIENTE DE COMPLETAR:** Insertar aquí la captura de pantalla del celular con la notificación push recibida (archivo evidencias/notificacion_push.png).
+![Notificación push recibida en el celular (PENDIENTE: reemplazar la captura).](evidencias/notificacion_pushh.png)
 
-| Dato | Valor |
-|---|---|
-| Valor menor que 100 publicado en el feed | ______ ADC |
-| Hora del dato en Adafruit IO | ______ |
-| Hora de la ejecución en IFTTT | ______ |
-| Hora de recepción en el celular | ______ |
-| Tiempo entre el dato y la notificación | ______ |
-
-> **COMPLETAR:** Completar la tabla y el estado final: notificación recibida / pendiente.
-
-La diferencia entre la hora del dato y la hora de la notificación depende del intervalo de consulta de IFTTT, no del intervalo de publicación del ESP32.
 
 
 ## 7. Resultados de las pruebas

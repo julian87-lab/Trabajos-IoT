@@ -239,17 +239,6 @@ Solución aplicada: se comprobó que la aplicación IFTTT del celular estuviera 
 
 > **PENDIENTE DE COMPLETAR:** Insertar aquí la captura de pantalla del celular con la notificación push recibida (archivo evidencias/notificacion_push.png).
 
-| Dato | Valor |
-|---|---|
-| Valor menor que 100 publicado en el feed | ______ ADC |
-| Hora del dato en Adafruit IO | ______ |
-| Hora de la ejecución en IFTTT | ______ |
-| Hora de recepción en el celular | ______ |
-| Tiempo entre el dato y la notificación | ______ |
-
-> **COMPLETAR:** Completar la tabla y el estado final: notificación recibida / pendiente.
-
-La diferencia entre la hora del dato y la hora de la notificación depende del intervalo de consulta de IFTTT, no del intervalo de publicación del ESP32.
 
 
 ## 7. Resultados de las pruebas

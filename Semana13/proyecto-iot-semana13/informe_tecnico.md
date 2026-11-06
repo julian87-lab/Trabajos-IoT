@@ -117,7 +117,6 @@ Se usó el feed luminosidad, creado en la semana 12 en la cuenta de Adafruit IO 
 | Feed | luminosidad (tópico usuario/feeds/luminosidad) |
 | Unidad publicada | ADC (0 a 4095) |
 
-La guía pide capturas de la creación del feed. Como el feed ya existía, la evidencia son las capturas del feed recibiendo datos reales.
 
 
 ### 6.3 Fase 2: código y publicación de datos

@@ -84,7 +84,7 @@ Verificar iluminacion.
 
 ### Notificación push recibida en el celular
 
-![Notificación push](evidencias/notificacion_push.png)
+![Notificación push](evidencias/notificacion_pushh.png)
 
 > **PENDIENTE DE COMPLETAR:** reemplazar `evidencias/notificacion_push.png` por la captura del celular con la notificación recibida.
 
@@ -133,7 +133,7 @@ Tras iniciar sesión de nuevo en la aplicación, la nueva ejecución debe regist
 | Histórico de al menos cinco minutos | Correcto |
 | Applet configurado y activo | Correcto |
 | Disparador de IFTTT | Se ejecutó (5 de noviembre, 20:49) |
-| Notificación push recibida | **COMPLETAR** |
+| Notificación push recibida | Correcto |
 
 ## Código fuente comentado
 
